@@ -1,18 +1,4 @@
-###Prerequisites
-1. Create a Task-1 folder in your repository and check-in/push all these tasks in github
-account
-2. Under that Task-1 folder, add a text file task-1-readme.txt. This readme should contain all
-the below 15 questions for future reference. (Copy & Paste)
-3. Avoid hard coding as far as possible & obtain the needed inputs from command line
-4. Array length & Array values should be obtained from command line
-5. Each program should contain separate .java files & should not have a main method.
-6. You should have only one Task1Runner.java(main class) which should handle the inputs
-for all the below 15 pgms and invoke the individual classes & their methods for each task.
-7. Give meaningful class names, method names & variable names. Avoid one or two letter
-variable names.
-8. Please think through the logic(s) on your own.Referring to the internet for logic will result
-in crap code. So please refrain from that as much as possible.
-9. Refer javadocs to know the inbuilt methods of Arrays & come up with fresh logics.
+###Programs
 1. Write a Java program to find the index of an array element. (numeric array)
 2. Write a Java program to sum values of a numeric array.
 3. Write a Java program to remove a specific element from an array.
